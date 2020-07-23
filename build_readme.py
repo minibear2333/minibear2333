@@ -8,7 +8,10 @@ import os
 import datetime
 from time import mktime
 import email.utils
-
+import ssl
+# 忽略所有https证书
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -117,7 +120,7 @@ def fetch_douban():
     entries = feedparser.parse("https://www.douban.com/feed/people/minibear2333/interests")["entries"]
     return [
         {
-            "title": item["title"],
+            "title": "["+item["title"][0:2]+"]"+item["title"][2:],
             "url": item["link"].split("#")[0],
             "published": formatGMTime(item["published"])
         }
