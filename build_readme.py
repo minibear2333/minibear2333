@@ -126,12 +126,12 @@ def fetch_douban():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://coding3min.com/feed")["item"]
+    entries = feedparser.parse("http://coding3min.com/feed")["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": formatRFC822Time(entry["pubDate"]),
+            "published": formatRFC822Time(entry["published"]),
         }
         for entry in entries
     ]
