@@ -35,7 +35,12 @@
 <!-- code_time starts -->
 
 ```text
-404: Not Found
+Markdown     6 hrs 21 mins  █████████████▒░░░░░░  53.3%
+Python       2 hrs 29 mins  ███████░░░░░░░░░░░░░  20.9%
+YAML                  1 hr  ████▓░░░░░░░░░░░░░░░   8.4%
+TypeScript         53 mins  ████▒░░░░░░░░░░░░░░░   7.5%
+JSON               47 mins  ████░░░░░░░░░░░░░░░░   6.6%
+Git                 9 mins  ███░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time ends -->
