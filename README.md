@@ -35,7 +35,12 @@
 <!-- code_time starts -->
 
 ```text
-404: Not Found
+Go           4 hrs 51 mins  ██████████████████▒░  77.0%
+Python             31 mins  ████▒░░░░░░░░░░░░░░░   8.3%
+Markdown           30 mins  ████▒░░░░░░░░░░░░░░░   8.0%
+Other              15 mins  ███▓░░░░░░░░░░░░░░░░   4.1%
+YAML                7 mins  ███▒░░░░░░░░░░░░░░░░   2.1%
+Git Config           1 min  ███░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
