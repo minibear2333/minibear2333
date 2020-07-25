@@ -62,3 +62,17 @@ Git Config           1 min  ███░░░░░░░░░░░░░░�
 </td>
   </tr>
   </table>
+  
+### 个人履历  
+
+* 语言：Go、Python、C++ ，有框架开发 / 基础工具、高性能组件开发经验，实现过SDK、api、同步任务等框架
+* 中间件： Nginx，Redis、Mariadb、RabbitMQ、SQLserver，influxdb有集群经验；
+* CI/CD：jenkins、gerrit、ansible、saltstack、shell，代码review管理员；
+* 接入层：Nginx, Haproxy、keepalived；
+* 监控运维：Prometheus/Grafana并为此项目贡献过代码，进行过二次开发和自研监控平台的架构设计，监控平台主负责人
+* 虚拟化：熟悉OpenStack的架构和原理，有部署实施、二次开发经验，熟悉OpenStack API
+* 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全, 能对它们进行二次开发
+* 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
+
+如果你的技术栈和我的类似，欢迎成为我的同事，请投递简历到 pzqu@tencent.com
+
