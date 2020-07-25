@@ -52,11 +52,11 @@ Git Config           1 min  ███░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/1229923/' target='_blank'>[想读]重构</a> - 2020-07-23
-* <a href='https://book.douban.com/subject/3533221/' target='_blank'>[读过]非暴力沟通</a> - 2020-07-23
-* <a href='https://book.douban.com/subject/2230248/' target='_blank'>[想读]人月神话</a> - 2020-07-23
-* <a href='https://book.douban.com/subject/1152111/' target='_blank'>[最近]在读程序员修炼之道</a> - 2020-07-23
-* <a href='https://book.douban.com/subject/5325618/' target='_blank'>[最近]在读高效能人士的七个习惯</a> - 2020-07-23
+* <a href='https://book.douban.com/subject/30240200/' target='_blank'>[读过]Go语言从入门到进阶实战（视频教学版）</a> - 2020-07-25
+* <a href='https://book.douban.com/subject/26704096/' target='_blank'>[读过]我的情绪为何总被他人左右</a> - 2020-07-25
+* <a href='https://book.douban.com/subject/25906034/' target='_blank'>[读过]危机领导力</a> - 2020-07-25
+* <a href='https://book.douban.com/subject/27056409/' target='_blank'>[读过]深度工作</a> - 2020-07-25
+* <a href='https://book.douban.com/subject/5952488/' target='_blank'>[读过]亲密关系</a> - 2020-07-25
 <!-- douban ends -->
 
 </td>
