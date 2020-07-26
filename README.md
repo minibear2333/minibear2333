@@ -52,11 +52,11 @@ Git Config           1 min  ███░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26929955/' target='_blank'>[读过]腾讯传</a> - 2020-07-26
 * <a href='https://book.douban.com/subject/30240200/' target='_blank'>[读过]Go语言从入门到进阶实战（视频教学版）</a> - 2020-07-25
 * <a href='https://book.douban.com/subject/26704096/' target='_blank'>[读过]我的情绪为何总被他人左右</a> - 2020-07-25
 * <a href='https://book.douban.com/subject/25906034/' target='_blank'>[读过]危机领导力</a> - 2020-07-25
 * <a href='https://book.douban.com/subject/27056409/' target='_blank'>[读过]深度工作</a> - 2020-07-25
-* <a href='https://book.douban.com/subject/5952488/' target='_blank'>[读过]亲密关系</a> - 2020-07-25
 <!-- douban ends -->
 
 </td>
