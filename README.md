@@ -31,7 +31,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/minibear2333/94daafe2dff829596fc785b37278c2c0" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/minibear2333/900a84827c42c5f77a17ae8e510ed203" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 

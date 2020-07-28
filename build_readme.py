@@ -112,7 +112,7 @@ def fetch_releases(oauth_token):
 
 def fetch_code_time():
     return httpx.get(
-        "https://gist.github.com/minibear2333/94daafe2dff829596fc785b37278c2c0/raw/"
+        "https://gist.github.com/minibear2333/900a84827c42c5f77a17ae8e510ed203/raw/"
     )
 
 
