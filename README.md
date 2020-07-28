@@ -19,11 +19,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/1257.html' target='_blank'>等待goroutine完成任务，循环中使用goroutine</a> - 2020-07-27
+* <a href='https://coding3min.com/1253.html' target='_blank'>Golang中的kinping.flag包读取命令行配置</a> - 2020-07-27
 * <a href='https://coding3min.com/1250.html' target='_blank'>优秀员工应该具备的11个特质</a> - 2020-07-19
 * <a href='https://coding3min.com/1246.html' target='_blank'>灵魂9问，光怪陆离的网络世界有哪些不为人知的秘密？（网络面试必考）</a> - 2020-07-10
 * <a href='https://coding3min.com/1231.html' target='_blank'>Golang打镜像Dockerfile的写法</a> - 2020-06-30
-* <a href='https://coding3min.com/1229.html' target='_blank'>更改docker的镜像源地址</a> - 2020-06-30
-* <a href='https://coding3min.com/1227.html' target='_blank'>更新docker的yum源</a> - 2020-06-30
 <!-- blog ends -->
 
 </td>
@@ -52,11 +52,11 @@ Git Config           1 min  ███░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/26929955/' target='_blank'>[读过]腾讯传</a> - 2020-07-26
-* <a href='https://book.douban.com/subject/30240200/' target='_blank'>[读过]Go语言从入门到进阶实战（视频教学版）</a> - 2020-07-25
-* <a href='https://book.douban.com/subject/26704096/' target='_blank'>[读过]我的情绪为何总被他人左右</a> - 2020-07-25
-* <a href='https://book.douban.com/subject/25906034/' target='_blank'>[读过]危机领导力</a> - 2020-07-25
-* <a href='https://book.douban.com/subject/27056409/' target='_blank'>[读过]深度工作</a> - 2020-07-25
+* <a href='https://book.douban.com/subject/26176870/' target='_blank'>[最近]在读计算机网络（第6版）</a> - 2020-07-27
+* <a href='https://book.douban.com/subject/5376270/' target='_blank'>[想读]调试九法</a> - 2020-07-27
+* <a href='https://book.douban.com/subject/5387402/' target='_blank'>[最近]在读程序员修炼之道</a> - 2020-07-27
+* <a href='https://book.douban.com/subject/10797189/' target='_blank'>[最近]在读编写可读代码的艺术</a> - 2020-07-27
+* <a href='https://book.douban.com/subject/4889838/' target='_blank'>[读过]鸟哥的Linux私房菜</a> - 2020-07-27
 <!-- douban ends -->
 
 </td>
