@@ -36,12 +36,12 @@
 <!-- code_time starts -->
 
 ```text
-YAML        17 hr 32 mins  █████████▌░░░░░░░░░░░  45.4%
-Markdown    6 hr 18 mins   ███▋░░░░░░░░░░░░░░░░░  17.3%
-Bash        3 hr 35 mins   ██░░░░░░░░░░░░░░░░░░░   9.9%
-Python      3 hr 20 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Other       2 hr 26 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Docker      2 hr 9 mins    █▎░░░░░░░░░░░░░░░░░░░   6.2%
+YAML        16 hr 32 mins  ██████████▏░░░░░░░░░░  48.4%
+Markdown    4 hr 5 mins    ██▍░░░░░░░░░░░░░░░░░░  11.8%
+Bash        3 hr 35 mins   ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Python      3 hr 20 mins   █▋░░░░░░░░░░░░░░░░░░░   8.3%
+Other       2 hr 26 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Docker      2 hr 9 mins    █▍░░░░░░░░░░░░░░░░░░░   6.6%
 ```
 
 <!-- code_time ends -->
