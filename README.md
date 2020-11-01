@@ -9,6 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/minibear2333/minibear2333/blob/main/releases.md" target="_blank">Repositories Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v0.1' target='_blank'>kubernetes-book Release v0.1</a> - 2020-10-31
 * <a href='https://github.com/minibear2333/exporter-example/releases/tag/0.0.1' target='_blank'>exporter-example exporter样例项目，可以根据需要定制</a> - 2020-07-24
 * <a href='https://github.com/minibear2333/how_to_code/releases/tag/1.0.0' target='_blank'>how_to_code go/python语言教程教程第一版</a> - 2020-07-23
 <!-- recent_releases ends -->
@@ -19,11 +20,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/1545.html' target='_blank'>linux系统字体安装</a> - 2020-10-31
+* <a href='https://coding3min.com/1543.html' target='_blank'>npm换源</a> - 2020-10-31
 * <a href='https://coding3min.com/1502.html' target='_blank'>DNS与服务器搭建-Linux每日一练(10)</a> - 2020-10-19
 * <a href='https://coding3min.com/1524.html' target='_blank'>两阶段构建golang项目dockerfile</a> - 2020-10-18
 * <a href='https://coding3min.com/1519.html' target='_blank'>分享我的k8s学习过程</a> - 2020-10-06
-* <a href='https://coding3min.com/1511.html' target='_blank'>基于Docker for macOS的Kubernetes本地环境搭建与应用部署(解决网络问题)</a> - 2020-10-05
-* <a href='https://coding3min.com/1491.html' target='_blank'>日志系统rsyslog和日志切割logrotate-Linux每日一练(9)</a> - 2020-09-25
 <!-- blog ends -->
 
 </td>
