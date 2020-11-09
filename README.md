@@ -20,11 +20,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/1566.html' target='_blank'>记mysql gone away和死锁Deadlock解决方案</a> - 2020-11-08
 * <a href='https://coding3min.com/1547.html' target='_blank'>不努力就会被优化是常态吗？</a> - 2020-11-02
 * <a href='https://coding3min.com/1545.html' target='_blank'>linux系统字体安装</a> - 2020-10-31
 * <a href='https://coding3min.com/1543.html' target='_blank'>npm换源</a> - 2020-10-31
 * <a href='https://coding3min.com/1502.html' target='_blank'>DNS与服务器搭建-Linux每日一练(10)</a> - 2020-10-19
-* <a href='https://coding3min.com/1524.html' target='_blank'>两阶段构建golang项目dockerfile</a> - 2020-10-18
 <!-- blog ends -->
 
 </td>
