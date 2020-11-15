@@ -9,7 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/minibear2333/minibear2333/blob/main/releases.md" target="_blank">Repositories Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v0.3' target='_blank'>kubernetes-book Release v0.3</a> - 2020-11-07
+* <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v0.6' target='_blank'>kubernetes-book Release v0.6</a> - 2020-11-14
 * <a href='https://github.com/minibear2333/exporter-example/releases/tag/0.0.1' target='_blank'>exporter-example exporter样例项目，可以根据需要定制</a> - 2020-07-24
 * <a href='https://github.com/minibear2333/how_to_code/releases/tag/1.0.0' target='_blank'>how_to_code go/python语言教程教程第一版</a> - 2020-07-23
 <!-- recent_releases ends -->
