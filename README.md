@@ -53,11 +53,11 @@ Bash        0 hr 1 mins    ░░░░░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/30257787/' target='_blank'>[看过]一秒钟</a> - 2020-11-29
 * <a href='https://book.douban.com/subject/30186113/' target='_blank'>[读过]每天5分钟玩转Kubernetes</a> - 2020-10-20
 * <a href='https://book.douban.com/subject/25827011/' target='_blank'>[读过]提问的威力：教练问题全清单</a> - 2020-10-20
 * <a href='http://movie.douban.com/subject/35165208/' target='_blank'>[看过]大幻术师</a> - 2020-08-10
 * <a href='http://movie.douban.com/subject/34462775/' target='_blank'>[想看]#活着</a> - 2020-07-29
-* <a href='https://book.douban.com/subject/26176870/' target='_blank'>[最近]在读计算机网络（第6版）</a> - 2020-07-27
 <!-- douban ends -->
 
 </td>
