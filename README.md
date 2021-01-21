@@ -21,10 +21,10 @@
 
 <!-- blog starts -->
 * <a href='https://coding3min.com/1584.html' target='_blank'>技术交流群加入方式开放！</a> - 2021-01-02
-* <a href='https://coding3min.com/1582.html' target='_blank'>一起弄点钱？</a> - 2021-01-02
 * <a href='https://coding3min.com/1578.html' target='_blank'>我们真的好渺小</a> - 2020-11-15
 * <a href='https://coding3min.com/1566.html' target='_blank'>记mysql gone away和死锁Deadlock解决方案</a> - 2020-11-08
 * <a href='https://coding3min.com/1547.html' target='_blank'>不努力就会被优化是常态吗？</a> - 2020-11-02
+* <a href='https://coding3min.com/1545.html' target='_blank'>linux系统字体安装</a> - 2020-10-31
 <!-- blog ends -->
 
 </td>
