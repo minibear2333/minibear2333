@@ -20,11 +20,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/1607.html' target='_blank'>打造云原生大型分布式监控系统</a> - 2021-03-29
 * <a href='https://coding3min.com/1598.html' target='_blank'>高可用架构设计之无状态服务</a> - 2021-03-09
 * <a href='https://coding3min.com/1578.html' target='_blank'>我们真的好渺小</a> - 2020-11-15
 * <a href='https://coding3min.com/1566.html' target='_blank'>记mysql gone away和死锁Deadlock解决方案</a> - 2020-11-08
 * <a href='https://coding3min.com/1547.html' target='_blank'>不努力就会被优化是常态吗？</a> - 2020-11-02
-* <a href='https://coding3min.com/1545.html' target='_blank'>linux系统字体安装</a> - 2020-10-31
 <!-- blog ends -->
 
 </td>
