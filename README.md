@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://coding3min.oss-accelerate.aliyuncs.com/2020/07/23/Hi1119.gif' alt='Hi' width="24"/> Hi，我是小熊，在腾讯云做监控云架构、开发、运维、实施工作，喜欢折腾 Go / k8s / OpenStack / Serverless / 自动化，喜欢开源分享，**以下内容通过 <a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">minibear2333/actions</a> 每日自动更新**；
+<img src='https://coding3min.oss-accelerate.aliyuncs.com/2020/07/23/Hi1119.gif' alt='Hi' width="24"/> Hi，我是小熊，做监控云架构、开发、运维、实施工作，喜欢折腾 Go / k8s / OpenStack / Serverless / 自动化，喜欢开源分享，**以下内容通过 <a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">minibear2333/actions</a> 每日自动更新**；
 
 <table>
 <tr>
@@ -75,5 +75,5 @@ Bash        0 hr 1 mins    ░░░░░░░░░░░░░░░░░�
 * 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全, 能对它们进行二次开发
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
 
-如果你的技术栈和我的类似，欢迎成为我的同事，请投递简历到 pzqu@tencent.com
+如果你的技术栈和我的类似，欢迎成为我的同事，请投递简历到 coding3min@foxmail.com
 
