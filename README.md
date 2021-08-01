@@ -9,9 +9,9 @@
 #### 🏋️‍♀️ <a href="https://github.com/minibear2333/minibear2333/blob/main/releases.md" target="_blank">Repositories Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/golang-minibear2333/golang/releases/tag/v1.0.0' target='_blank'>golang go语言精进之路完成入门一、二、三章编写</a> - 2021-07-01
 * <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v1.0' target='_blank'>kubernetes-book Release v1.0</a> - 2020-11-22
 * <a href='https://github.com/minibear2333/exporter-example/releases/tag/0.0.1' target='_blank'>exporter-example exporter样例项目，可以根据需要定制</a> - 2020-07-24
-* <a href='https://github.com/minibear2333/how_to_code/releases/tag/1.0.0' target='_blank'>how_to_code go/python语言教程教程第一版</a> - 2020-07-23
 <!-- recent_releases ends -->
 
 </td>
@@ -20,11 +20,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://coding3min.com/1607.html' target='_blank'>打造云原生大型分布式监控系统</a> - 2021-03-29
-* <a href='https://coding3min.com/1598.html' target='_blank'>高可用架构设计之无状态服务</a> - 2021-03-09
-* <a href='https://coding3min.com/1578.html' target='_blank'>我们真的好渺小</a> - 2020-11-15
-* <a href='https://coding3min.com/1566.html' target='_blank'>记mysql gone away和死锁Deadlock解决方案</a> - 2020-11-08
-* <a href='https://coding3min.com/1547.html' target='_blank'>不努力就会被优化是常态吗？</a> - 2020-11-02
+* <a href='https://coding3min.com/1658.html' target='_blank'>我能坚持700多天，但人生却不图啥？</a> - 2021-07-30
+* <a href='https://coding3min.com/1656.html' target='_blank'>面试？求你别再问八股文！</a> - 2021-07-30
+* <a href='https://coding3min.com/1653.html' target='_blank'>讲透Go中的并发接收控制结构select</a> - 2021-07-28
+* <a href='https://coding3min.com/1651.html' target='_blank'>快桃科技居然给我无条件双倍工资！却又整天瞎搞</a> - 2021-07-23
+* <a href='https://coding3min.com/1648.html' target='_blank'>面试高频：Go语言死锁与goroutine泄露问题谈论</a> - 2021-07-22
 <!-- blog ends -->
 
 </td>
