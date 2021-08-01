@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://coding3min.oss-accelerate.aliyuncs.com/2020/07/23/Hi1119.gif' alt='Hi' width="24"/> Hi，我是小熊，做监控云架构、开发、运维、实施工作，喜欢折腾 Go / k8s / OpenStack / Serverless / 自动化，喜欢开源分享，**以下内容通过 <a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">minibear2333/actions</a> 每日自动更新**；
+<img src='https://coding3min.oss-accelerate.aliyuncs.com/2020/07/23/Hi1119.gif' alt='Hi' width="24"/> Hi，我是小熊，正在做监控云Go研发，曾从事架构、运维、实施工作，喜欢折腾 Go / k8s / Prometheus / Serverless / 自动化，喜欢开源分享，**以下内容通过 <a href="https://github.com/minibear2333/minibear2333/actions" target="_blank">minibear2333/actions</a> 每日自动更新**；
 
 <table>
 <tr>
@@ -66,14 +66,13 @@ Other       1 hr 16 mins   ▌░░░░░░░░░░░░░░░░�
   
 ### 个人履历  
 
-* 语言：Go、Python、C++ ，有框架开发 / 基础工具、高性能组件开发经验，实现过SDK、api、同步任务等框架
+* 语言：熟悉Go、了解Python、C++ ；有框架开发 / 基础工具、高性能组件开发经验，实现过SDK、api、同步任务等框架
 * 中间件： Nginx，Redis、Mariadb、RabbitMQ、SQLserver，influxdb有集群经验；
 * CI/CD：jenkins、gerrit、ansible、saltstack、shell，代码review管理员；
 * 接入层：Nginx, Haproxy、keepalived；
-* 监控运维：Prometheus/Grafana并为此项目贡献过代码，进行过二次开发和自研监控平台的架构设计，监控平台主负责人
-* 虚拟化：熟悉OpenStack的架构和原理，有部署实施、二次开发经验，熟悉OpenStack API
-* 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全, 能对它们进行二次开发
+* 监控运维：Prometheus并为此项目贡献过代码，进行过二次开发和自研监控平台的架构设计，曾担任腾讯TStack监控平台主负责人；
+* 虚拟化：熟悉OpenStack的架构和原理，有部署实施、二次开发经验，熟悉OpenStack API；
+* 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全, 能对它们进行二次开发；
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
 
-如果你的技术栈和我的类似，欢迎成为我的同事，请投递简历到 coding3min@foxmail.com
-
+如果你的技术栈和我的类似，欢迎加我好友，微信：qupzhi
