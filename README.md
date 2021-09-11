@@ -37,11 +37,8 @@
 <!-- code_time starts -->
 
 ```text
-Go          2 hr 40 mins   █████████████████▊░░░  84.8%
-Markdown    0 hr 12 mins   ███░░░░░░░░░░░░░░░░░░  14.4%
-SQL         0 hr 0 mins    ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Bash        0 hr 0 mins    ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other       0 hr 0 mins    ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Go          1 hr 34 mins   ███████████████▎░░░░░  73.1%
+Markdown    0 hr 12 mins   █████▋░░░░░░░░░░░░░░░  26.9%
 ```
 
 <!-- code_time ends -->
