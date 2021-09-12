@@ -37,8 +37,7 @@
 <!-- code_time starts -->
 
 ```text
-Go          1 hr 34 mins   ███████████████▎░░░░░  73.1%
-Markdown    0 hr 12 mins   █████▋░░░░░░░░░░░░░░░  26.9%
+404: Not Found
 ```
 
 <!-- code_time ends -->
