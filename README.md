@@ -37,7 +37,7 @@
 <!-- code_time starts -->
 
 ```text
-404: Not Found
+
 ```
 
 <!-- code_time ends -->
