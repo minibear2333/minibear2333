@@ -9,8 +9,9 @@
 #### 🏋️‍♀️ <a href="https://github.com/minibear2333/minibear2333/blob/main/releases.md" target="_blank">Repositories Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/minibear2333/be-question-answer/releases/tag/v1.0' target='_blank'>be-question-answer </a> - 2022-11-16
 * <a href='https://github.com/golang-minibear2333/golang/releases/tag/v1.0.0' target='_blank'>golang go语言精进之路完成入门一、二、三章编写</a> - 2021-07-01
-* <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v1.0' target='_blank'>kubernetes-book Release v1.0</a> - 2020-11-22
+* <a href='https://github.com/minibear2333/kubernetes-book/releases/tag/v0.2' target='_blank'>kubernetes-book Release v0.2</a> - 2020-11-01
 * <a href='https://github.com/minibear2333/exporter-example/releases/tag/0.0.1' target='_blank'>exporter-example exporter样例项目，可以根据需要定制</a> - 2020-07-24
 <!-- recent_releases ends -->
 
@@ -20,11 +21,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://coding3min.com/1684.html' target='_blank'>该去大公司做螺丝钉，还是去小公司发光发热？</a> - 2021-08-22
-* <a href='https://coding3min.com/1680.html' target='_blank'>可笑的怀揣梦想，叫不醒的年轻人</a> - 2021-08-17
-* <a href='https://coding3min.com/1676.html' target='_blank'>小熊其实干了4年SRE，而不自知，揭秘SRE工资为什么高！</a> - 2021-08-12
-* <a href='https://coding3min.com/1673.html' target='_blank'>从源码的角度看Go语言flag库如何解析命令行参数！</a> - 2021-08-10
-* <a href='https://coding3min.com/1671.html' target='_blank'>有没有一瞬间不想活了？</a> - 2021-08-05
+* <a href='https://coding3min.com/2378.html' target='_blank'>go-sql-driver使用in语句的问题，防注入问号需要有确定的个数</a> - 2023-11-15
+* <a href='https://coding3min.com/2375.html' target='_blank'>【01实操】k8s部署</a> - 2023-10-19
+* <a href='https://coding3min.com/2361.html' target='_blank'>【06实操】条件判断函数和系统函数</a> - 2023-10-18
+* <a href='https://coding3min.com/2355.html' target='_blank'>【05实操】模糊查询、条件查询、分组查询</a> - 2023-10-18
+* <a href='https://coding3min.com/2352.html' target='_blank'>【02实操】数据库操作</a> - 2023-10-18
 <!-- blog ends -->
 
 </td>
