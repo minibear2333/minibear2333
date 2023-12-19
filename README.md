@@ -21,11 +21,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/2382.html' target='_blank'>ansible中include和delegate_to、loop并用以及存在的问题</a> - 2023-12-18
 * <a href='https://coding3min.com/2378.html' target='_blank'>go-sql-driver使用in语句的问题，防注入问号需要有确定的个数</a> - 2023-11-15
 * <a href='https://coding3min.com/2375.html' target='_blank'>【01实操】k8s部署</a> - 2023-10-19
 * <a href='https://coding3min.com/2361.html' target='_blank'>【06实操】条件判断函数和系统函数</a> - 2023-10-18
 * <a href='https://coding3min.com/2355.html' target='_blank'>【05实操】模糊查询、条件查询、分组查询</a> - 2023-10-18
-* <a href='https://coding3min.com/2352.html' target='_blank'>【02实操】数据库操作</a> - 2023-10-18
 <!-- blog ends -->
 
 </td>
