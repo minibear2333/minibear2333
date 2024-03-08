@@ -21,11 +21,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/2441.html' target='_blank'>cgroup内存限制和cpu限制的方法</a> - 2024-03-06
+* <a href='https://coding3min.com/2438.html' target='_blank'>Python时区datetime设置UTC转东八区</a> - 2024-03-06
+* <a href='https://coding3min.com/2431.html' target='_blank'>2024 年如何复用 ChatGPT 从头开始​​快速学习 Python</a> - 2024-03-06
 * <a href='https://coding3min.com/2433.html' target='_blank'>计算机必看经典书单和课程资源(含下载方式)</a> - 2024-03-02
 * <a href='https://coding3min.com/2426.html' target='_blank'>Fomepay最详细保姆级教程和ChatGPT4.0 plus订阅教程</a> - 2024-03-01
-* <a href='https://coding3min.com/2406.html' target='_blank'>SRE运维学习小组学习群学习路线图大公开——更适合国内</a> - 2024-02-07
-* <a href='https://coding3min.com/2399.html' target='_blank'>故障复盘-基础设施-服务器断电导致Linux重启iptables防火墙规则丢失docker容器间无法连接</a> - 2024-02-07
-* <a href='https://coding3min.com/2400.html' target='_blank'>iptables进行持久化配置，重启不丢失</a> - 2024-02-07
 <!-- blog ends -->
 
 </td>
@@ -49,11 +49,11 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/10777687/' target='_blank'>[看过]7号房的礼物</a> - 2024-03-06
 * <a href='http://movie.douban.com/subject/34863327/' target='_blank'>[看过]我才不要和你做朋友呢</a> - 2024-03-03
 * <a href='https://book.douban.com/subject/35130972/' target='_blank'>[最近]在读Go语言编程之旅：一起用Go做项目</a> - 2021-08-01
 * <a href='https://book.douban.com/subject/35144587/' target='_blank'>[读过]Go专家编程</a> - 2021-08-01
 * <a href='https://book.douban.com/subject/1229923/' target='_blank'>[最近]在读重构</a> - 2021-03-01
-* <a href='http://movie.douban.com/subject/30257787/' target='_blank'>[看过]一秒钟</a> - 2020-11-29
 <!-- douban ends -->
 
 </td>
