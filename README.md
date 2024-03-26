@@ -21,11 +21,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/2452.html' target='_blank'>04.大项目管理</a> - 2024-03-25
+* <a href='https://coding3min.com/2450.html' target='_blank'>03.变量和facts</a> - 2024-03-25
+* <a href='https://coding3min.com/2448.html' target='_blank'>02.playbook</a> - 2024-03-25
+* <a href='https://coding3min.com/2446.html' target='_blank'>01.ansible基础</a> - 2024-03-25
 * <a href='https://coding3min.com/2441.html' target='_blank'>cgroup内存限制和cpu限制的方法</a> - 2024-03-06
-* <a href='https://coding3min.com/2438.html' target='_blank'>Python时区datetime设置UTC转东八区</a> - 2024-03-06
-* <a href='https://coding3min.com/2431.html' target='_blank'>2024 年如何复用 ChatGPT 从头开始​​快速学习 Python</a> - 2024-03-06
-* <a href='https://coding3min.com/2433.html' target='_blank'>计算机必看经典书单和课程资源(含下载方式)</a> - 2024-03-02
-* <a href='https://coding3min.com/2426.html' target='_blank'>Fomepay最详细保姆级教程和ChatGPT4.0 plus订阅教程</a> - 2024-03-01
 <!-- blog ends -->
 
 </td>
