@@ -49,11 +49,7 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/minibear2333/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/10777687/' target='_blank'>[看过]7号房的礼物</a> - 2024-03-06
-* <a href='http://movie.douban.com/subject/34863327/' target='_blank'>[看过]我才不要和你做朋友呢</a> - 2024-03-03
-* <a href='https://book.douban.com/subject/35130972/' target='_blank'>[最近]在读Go语言编程之旅：一起用Go做项目</a> - 2021-08-01
-* <a href='https://book.douban.com/subject/35144587/' target='_blank'>[读过]Go专家编程</a> - 2021-08-01
-* <a href='https://book.douban.com/subject/1229923/' target='_blank'>[最近]在读重构</a> - 2021-03-01
+
 <!-- douban ends -->
 
 </td>
