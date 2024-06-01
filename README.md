@@ -21,11 +21,11 @@
 #### 🤹‍♀️ <a href="https://coding3min.com" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://coding3min.com/2480.html' target='_blank'>grafana变量用法，使用grafana渲染模板</a> - 2024-05-31
 * <a href='https://coding3min.com/2465.html' target='_blank'>如何给Linux硬盘分区fdisk</a> - 2024-04-08
 * <a href='https://coding3min.com/2463.html' target='_blank'>ansible sysctl 模块使用</a> - 2024-04-08
 * <a href='https://coding3min.com/2452.html' target='_blank'>04.大项目管理</a> - 2024-03-25
 * <a href='https://coding3min.com/2450.html' target='_blank'>03.变量和facts</a> - 2024-03-25
-* <a href='https://coding3min.com/2448.html' target='_blank'>02.playbook</a> - 2024-03-25
 <!-- blog ends -->
 
 </td>
